@@ -1,0 +1,9 @@
+c:\users\mmonte\documents\visual studio 2015\Projects\Arvore\Arvore\bin\Debug\Arvore.exe.config
+c:\users\mmonte\documents\visual studio 2015\Projects\Arvore\Arvore\bin\Debug\Arvore.exe
+c:\users\mmonte\documents\visual studio 2015\Projects\Arvore\Arvore\bin\Debug\Arvore.pdb
+c:\users\mmonte\documents\visual studio 2015\Projects\Arvore\Arvore\obj\Debug\Arvore.csprojResolveAssemblyReference.cache
+c:\users\mmonte\documents\visual studio 2015\Projects\Arvore\Arvore\obj\Debug\Arvore.Form1.resources
+c:\users\mmonte\documents\visual studio 2015\Projects\Arvore\Arvore\obj\Debug\Arvore.Properties.Resources.resources
+c:\users\mmonte\documents\visual studio 2015\Projects\Arvore\Arvore\obj\Debug\Arvore.csproj.GenerateResource.Cache
+c:\users\mmonte\documents\visual studio 2015\Projects\Arvore\Arvore\obj\Debug\Arvore.exe
+c:\users\mmonte\documents\visual studio 2015\Projects\Arvore\Arvore\obj\Debug\Arvore.pdb
